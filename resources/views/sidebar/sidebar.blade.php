@@ -60,7 +60,7 @@
                     </ul>
                 </li>
                 
-                <li class="submenu {{set_active(['department/add/page','department/edit/page'])}}">
+                <!-- <li class="submenu {{set_active(['department/add/page','department/edit/page'])}}">
                     <a href="#"><i class="fas fa-building"></i>
                         <span> Departments</span>
                         <span class="menu-arrow"></span>
@@ -70,7 +70,7 @@
                         <li><a href="{{ route('department/add/page') }}" class="{{set_active(['department/add/page'])}}">Department Add</a></li>
                         <li><a href="{{ route('department/edit/page') }}" class="{{set_active(['department/edit/page'])}}">Department Edit</a></li>
                     </ul>
-                </li>
+                </li> -->
                 <li class="submenu">
                     <a href="#"><i class="fas fa-book-reader"></i>
                         <span> Subjects</span>
@@ -82,7 +82,7 @@
                         <li><a href="edit-subject.html">Subject Edit</a></li>
                     </ul>
                 </li>
-                <li class="submenu">
+                <!-- <li class="submenu">
                     <a href="#"><i class="fas fa-clipboard"></i>
                         <span> Invoices</span>
                         <span class="menu-arrow"></span>
@@ -130,7 +130,7 @@
                 </li>
                 <li>
                     <a href="library.html"><i class="fas fa-book"></i> <span>Library</span></a>
-                </li>
+                </li> -->
             </ul>
         </div>
     </div>
