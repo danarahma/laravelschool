@@ -29,7 +29,7 @@
                     <img src="{{ URL::to('assetsweb/images/mim15.png') }}" alt="Logo">
                 </a>
                 <a href="{{ route('home') }}" class="logo logo-small">
-                    <img src="{{ URL::to('assets/img/logo-small.png') }}" alt="Logo" width="30" height="30">
+                    <img src="{{ URL::to('assetsweb/images/mim15.png') }}" alt="Logo" width="30" height="30">
                 </a>
             </div>
             <div class="menu-toggle">
